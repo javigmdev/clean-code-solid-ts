@@ -70,7 +70,7 @@ Se denben tener las pruebas en mente antes de crear código
 
 <br>
 
-# Nombres poco descriptivos
+## Nombres poco descriptivos
 
 - Nombres de variables mal nombradas
 - Nombres de clases genéricas
@@ -79,7 +79,7 @@ Se denben tener las pruebas en mente antes de crear código
 
 <br>
 
-# Duplicidad de código
+## Duplicidad de código
 
 **Real**:
 
